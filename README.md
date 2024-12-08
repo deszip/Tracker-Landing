@@ -4,13 +4,13 @@ Tracker is an app I've built for myself. Being fed up with "corporate" and fancy
 
 I wanted something to substitute a pen and a notebook. Im using it for a 5 month already and now want to share with you.
 
-# ![Tracker](https://github.com/deszip/Tracker-Landing/raw/main/scr-1.png)
+# ![Tracker](https://github.com/deszip/Tracker-Landing/raw/master/scr-1.png)
 
 ### Install
 Tracker is in early beta. This means it will change a lot before the relase, mostly because of your feedback.
 App is available via this link: [get Tracker via TestFlight](https://testflight.apple.com/join/BPzFYaHz).
 
-# ![Tracker](https://github.com/deszip/Tracker-Landing/raw/main/scr-2.png)
+# ![Tracker](https://github.com/deszip/Tracker-Landing/raw/master/scr-2.png)
 
 ### Features
 It's pretty simple, you select category and run timer. Then you can see different stats.
