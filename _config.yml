@@ -1,12 +1,15 @@
 # Site settings
 title: Tracker
-email:
+email: raf.rafiki@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: deszip
 
 # Build settings
 markdown: kramdown
+
+tf_url: https://testflight.apple.com/join/BPzFYaHz
+new_issue_url: https://github.com/deszip/Tracker-Landing/issues/new
