@@ -1,35 +1,27 @@
 ### About
-Cleano is designed by developers, for developers. This tool simplifies the process of decluttering unnecessary files, focusing on those that are either expendable or easily restorable.
+Tracking time you spend is the most cheap and valuable productivity tool ever existed.
+Tracker is an app I've built for myself. Being fed up with "corporate" and fancy trackers offering me Jira integration.
 
-# ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-1.png)
+I wanted something to substitute a pen and a notebook. Im using it for a 5 month already and now want to share with you.
+
+# ![Tracker](https://github.com/deszip/Tracker-Landing/raw/main/scr-1.png)
 
 ### Install
-Cleano is available in [Mac App Store](https://apps.apple.com/ua/app/cleano/id6469460523)
+Tracker is in early beta. This means it will change a lot before the relase, mostly because of your feedback.
+App is available via this link: [get Tracker via TestFlight](https://testflight.apple.com/join/BPzFYaHz).
 
-Sometimes beta builds with new features will be available via TF.
-If you want to help in testing new versions of Cleano drop us a line at [raf.rafiki@gmail.com](mailto:raf.rafiki@gmail.com).
-
-# ![Cleaner](https://github.com/deszip/Cleaner-Tracker/raw/main/scr-2.png)
+# ![Tracker](https://github.com/deszip/Tracker-Landing/raw/main/scr-2.png)
 
 ### Features
-At the moment Cleano tracks and allows to cleanup next things:
-- Derived data
-- Swift PM caches
-- Simulators, via `simctl`
-- Simulator caches
-- Device support images
-- Apps archives
+It's pretty simple, you select category and run timer. Then you can see different stats.
+It has widgets so ypu can check some stats without opening the app.
+It also has a push notifications for forgotten timers and live activity to check what timer is running now.
 
-More to come:
-- SwiftUI previews cache
-- More package managers caches
-- Widgets
-
-This list will grow same as functionality of each module. Feel free to post your feature requests in this repo.
+This list will grow. Feel free to post your feature requests in this repo.
 
 ### Feedback
 We value our users and their feedback. If you encounter any issues or have suggestions for improvement, please contact our support team at [raf.rafiki@gmail.com](mailto:raf.rafiki@gmail.com).
 
-You can also [create an issue](https://github.com/deszip/Cleaner-Tracker/issues/new) in this repository.
+You can also [create an issue](https://github.com/deszip/Tracker-Landing/issues/new) in this repository.
 
-* [All issues](https://github.com/deszip/Cleaner-Tracker/issues)
+* [All issues](https://github.com/deszip/Tracker-Landing/issues)
